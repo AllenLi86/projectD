@@ -1,6 +1,6 @@
 # projectD
 
-test
-test
-update on github
+- test
+- test
+- update on github
 
